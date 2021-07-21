@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Box model */
+}
+
+body {
+  background: #bbd2c5;
+  background: -webkit-linear-gradient(to left, #292e49, #536976, #bbd2c5);
+  background: linear-gradient(to left, #292e49, #536976, #bbd2c5);
+}
